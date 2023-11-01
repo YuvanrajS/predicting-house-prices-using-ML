@@ -117,7 +117,7 @@ README.md: This file.
 
 # Data
 Data source: ( https://www.kaggle.com/datasets/vedavyasv/usa-housing )
-The dataset (data/house_data.csv) is sourced from XYZ Real Estate Data and contains detailed information about houses and their sale prices.
+The dataset (data/house_data.csv) is sourced from www.kaggle.com and contains detailed information about houses and their sale prices.
 
 # Model
 The code includes a simple Linear Regression model by default. You can explore other regression models (e.g., Decision Trees, Random Forests, etc.) by modifying the code in the Jupyter Notebook.
